@@ -1,0 +1,1 @@
+{"name":"Local: knapsack_DP","url":"d:\\Dynamic-Programming\\knapsack_DP.cpp","tests":[{"id":1762104254980,"input":"4\n10 4 7 5\n4 3 2 5\n8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Dynamic-Programming\\knapsack_DP.cpp","group":"local","local":true}
